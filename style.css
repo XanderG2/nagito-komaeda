@@ -1,0 +1,19 @@
+#ml {
+    margin-left: 10px;
+  }
+  
+  main,
+  imggroup {
+    width: 50%;
+  }
+  
+  imggroup {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: row;
+  }
+  
